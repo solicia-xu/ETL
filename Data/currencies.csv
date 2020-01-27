@@ -1,0 +1,57 @@
+Currency,Country,Country_Code
+AED UAE Dirham,United Arab Emirates,ARE
+ARS Argentine Peso,Argentina,ARG
+AUD Australian Dollar,Australia,AUS
+AZN Azerbaijani New Manat,Azerbaijan,AZE
+BGN Bulgarian Lev,Bulgaria,BGR
+BHD Bahraini Dinar,Bahrain,BHR
+BND Brunei Dollar,Brunei Darussalam,BRN
+BRL Brazilian Real,Brazil,BRA
+CAD Canadian Dollar,Canada,CAN
+CHF Swiss Franc,Switzerland,CHE
+CLP Chilean Peso,Chile,CHL
+CNY Chinese Yuan,China,CHN
+CZK Czech Koruna,Czech Republic,CZE
+DKK Danish Kroner,Denmark,DNK
+EGP Egyptian Pound,"Egypt, Arab Rep.",EGY
+EUR Euro,Euro area,EMU
+FJD Fiji Dollar,Fiji,FJI
+GBP British Pound,United Kingdom,GBR
+HKD Hong Kong Dollar,"Hong Kong SAR, China",HKG
+HUF Hungarian Forint,Hungary,HUN
+IDR Indonesian Rupiah,Indonesia,IDN
+ILS Israeli New Shekel,Israel,ISR
+INR Indian Rupee,India,IND
+JPY Japanese Yen,Japan,JPN
+KRW Korean Won,"Korea, Rep.",KOR
+KWD Kuwaiti Dinar,Kuwait,KWT
+LKR Sri Lanka Rupee,Sri Lanka,LKA
+MAD Moroccan Dirham,Morocco,MAR
+MGA Malagasy Ariary,Madagascar,MDG
+MXN Mexican Peso,Mexico,MEX
+MYR Malaysian Ringgit,Malaysia,MYS
+NOK Norwegian Kroner,Norway,NOR
+NZD New Zealand Dollar,New Zealand,NZL
+OMR Omani Rial,Oman,OMN
+PEN Peruvian Nuevo Sol,Peru,PER
+PGK Papua New Guinea Kina,Papua New Guinea,PNG
+PHP Philippine Peso,Philippines,PHL
+PKR Pakistani Rupee,Pakistan,PAK
+PLN Polish Zloty,Poland,POL
+RUB Russian Rouble,Russian Federation,RUS
+SAR Saudi Arabian Riyal,Saudi Arabia,SAU
+SBD Solomon Islands Dollar,Solomon Islands,SLB
+SCR Seychelles Rupee,Seychelles,SYC
+SEK Swedish Krona,Sweden,SWE
+SGD Singapore Dollar,Singapore,SGP
+THB Thai Baht,Thailand,THA
+TOP Tonga Pa`anga,Tonga,TON
+TRY Turkish Lira,Turkey,TUR
+TZS Tanzanian Shilling,Tanzania,TZA
+USD US Dollar,United States,USA
+VND Vietnamese Dong,Vietnam,VNM
+VUV Vanuatu Vatu,Vanuatu,VUT
+WST Samoa Tala,Samoa,WSM
+XOF CFA Franc (BCEAO),Central African Republic,CAF
+XPF Pacific Franc,East Asia & Pacific (excluding high income),EAP
+ZAR South African Rand,South Africa,ZAF
