@@ -1,6 +1,7 @@
 # ETL
 
 •	The purpose of this ETL is to have a clean dataset for food production index, birth rate and the currency exchange rates that can be used for further analysis.
+
 •	Extract the exchange rates for 52 different countries from the web, transform and process the data and load it to relational database to store, build the Flask so that users can search for food production index or exchange rates for different time period.
 
 Datasets:
